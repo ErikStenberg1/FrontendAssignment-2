@@ -1,1 +1,1 @@
-# FrontendAssignment-2
+# frontend-assignment-02
